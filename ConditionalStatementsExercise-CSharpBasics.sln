@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. First excercise", "01. First excercise\01. First excercise.csproj", "{FDC003FE-257B-48D1-9DC1-6135E55560C8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Bonus Score", "02. Bonus Score\02. Bonus Score.csproj", "{6CCCE2F7-637C-4EC4-A5E9-E94F26AFF753}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Time + 15 Minutes", "03. Time + 15 Minutes\03. Time + 15 Minutes.csproj", "{B9488C18-10AF-4997-BBEB-209CF859FBFA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{6CCCE2F7-637C-4EC4-A5E9-E94F26AFF753}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6CCCE2F7-637C-4EC4-A5E9-E94F26AFF753}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6CCCE2F7-637C-4EC4-A5E9-E94F26AFF753}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9488C18-10AF-4997-BBEB-209CF859FBFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9488C18-10AF-4997-BBEB-209CF859FBFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9488C18-10AF-4997-BBEB-209CF859FBFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9488C18-10AF-4997-BBEB-209CF859FBFA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
