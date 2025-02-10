@@ -52,7 +52,7 @@ double toysCount = sawsCount + puppetsCount + bearsCount + minionsCount + trucks
 
 
 
-if (toysCount > 50)
+if (toysCount >= 50)
 {
     total -= total * 0.25;
 }
@@ -60,7 +60,8 @@ if (toysCount > 50)
 
 
 //Наем
-total -= total * 0.1;
+double rent = total * 0.1;
+total -= rent;
 
 
 
