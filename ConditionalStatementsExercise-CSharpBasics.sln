@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. World Swimming Record",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Shopping", "07. Shopping\07. Shopping.csproj", "{1C1A2021-BDF5-420A-823A-E84578EA3B9F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Lunch Break", "08. Lunch Break\08. Lunch Break.csproj", "{8A47B64B-140F-416A-A703-DB94335762F7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,8 +53,15 @@ Global
 		{1C1A2021-BDF5-420A-823A-E84578EA3B9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C1A2021-BDF5-420A-823A-E84578EA3B9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C1A2021-BDF5-420A-823A-E84578EA3B9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A47B64B-140F-416A-A703-DB94335762F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A47B64B-140F-416A-A703-DB94335762F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A47B64B-140F-416A-A703-DB94335762F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A47B64B-140F-416A-A703-DB94335762F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CA9A878-99DD-4DFE-9DE7-15F770E55994}
 	EndGlobalSection
 EndGlobal
